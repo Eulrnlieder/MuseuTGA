@@ -10965,7 +10965,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* String_Format_mA0534D6E2AE4D67A6BD8
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 60052
+// Method Definition Index: 60064
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeRingQueueDebugView_1__ctor_mD7EBE2BAD3C0BA29E7487608E59CB70A5284ADDA_gshared (NativeRingQueueDebugView_1_t0569BD972407EB8D3491589DDE1EBE66717FBAF8* __this, NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824 ___0_data, const RuntimeMethod* method) 
 {
 	{
@@ -10979,7 +10979,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeRingQueueDebugView_1__ctor_mD7EBE2
 		return;
 	}
 }
-// Method Definition Index: 60053
+// Method Definition Index: 60065
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR __Il2CppFullySharedGenericStructTypeU5BU5D_tF3B929B6E80D0A8C109178E11CE8FF9957B014C1* NativeRingQueueDebugView_1_get_Items_m6B91DBF55577770D674FA4918544909B62B287C5_gshared (NativeRingQueueDebugView_1_t0569BD972407EB8D3491589DDE1EBE66717FBAF8* __this, const RuntimeMethod* method) 
 {
 	const uint32_t SizeOf_T_t103377CDA7D8BAF961D931572BBE9465E61DE86F = il2cpp_codegen_sizeof(il2cpp_rgctx_data_no_init(method->klass->rgctx_data, 8));
@@ -11056,7 +11056,7 @@ IL_0056:
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 60039
+// Method Definition Index: 60051
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool NativeRingQueue_1_get_IsCreated_m7656331C78C6BFE2143A3FDB3EF208AFEC1CC302_gshared (NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824* __this, const RuntimeMethod* method) 
 {
 	{
@@ -11088,7 +11088,7 @@ IL2CPP_EXTERN_C  bool NativeRingQueue_1_get_IsCreated_m7656331C78C6BFE2143A3FDB3
 	_returnValue = NativeRingQueue_1_get_IsCreated_m7656331C78C6BFE2143A3FDB3EF208AFEC1CC302_inline(_thisAdjusted, method);
 	return _returnValue;
 }
-// Method Definition Index: 60040
+// Method Definition Index: 60052
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool NativeRingQueue_1_get_IsEmpty_mF5B25F554191B3367F230026E2430FBCE14DB65E_gshared (NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824* __this, const RuntimeMethod* method) 
 {
 	{
@@ -11120,7 +11120,7 @@ IL2CPP_EXTERN_C  bool NativeRingQueue_1_get_IsEmpty_mF5B25F554191B3367F230026E24
 	_returnValue = NativeRingQueue_1_get_IsEmpty_mF5B25F554191B3367F230026E2430FBCE14DB65E_inline(_thisAdjusted, method);
 	return _returnValue;
 }
-// Method Definition Index: 60041
+// Method Definition Index: 60053
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t NativeRingQueue_1_get_Length_m881C8901088FD50D8921187000CAFA398BAB3AEA_gshared (NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824* __this, const RuntimeMethod* method) 
 {
 	{
@@ -11142,7 +11142,7 @@ IL2CPP_EXTERN_C  int32_t NativeRingQueue_1_get_Length_m881C8901088FD50D892118700
 	_returnValue = NativeRingQueue_1_get_Length_m881C8901088FD50D8921187000CAFA398BAB3AEA_inline(_thisAdjusted, method);
 	return _returnValue;
 }
-// Method Definition Index: 60042
+// Method Definition Index: 60054
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t NativeRingQueue_1_get_Capacity_m964F51040BBC35640EF8DFCF9A4E2C35D313B293_gshared (NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824* __this, const RuntimeMethod* method) 
 {
 	{
@@ -11164,7 +11164,7 @@ IL2CPP_EXTERN_C  int32_t NativeRingQueue_1_get_Capacity_m964F51040BBC35640EF8DFC
 	_returnValue = NativeRingQueue_1_get_Capacity_m964F51040BBC35640EF8DFCF9A4E2C35D313B293_inline(_thisAdjusted, method);
 	return _returnValue;
 }
-// Method Definition Index: 60043
+// Method Definition Index: 60055
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeRingQueue_1__ctor_m7F7B91C193E25DA5D33FA2E22EAA47BB0A5B9335_gshared (NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824* __this, int32_t ___0_capacity, AllocatorHandle_t3CA09720B1F89F91A8DDBA95E74C28A1EC3E3148 ___1_allocator, int32_t ___2_options, const RuntimeMethod* method) 
 {
 	{
@@ -11193,7 +11193,7 @@ IL2CPP_EXTERN_C  void NativeRingQueue_1__ctor_m7F7B91C193E25DA5D33FA2E22EAA47BB0
 	_thisAdjusted = reinterpret_cast<NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824*>(__this + _offset);
 	NativeRingQueue_1__ctor_m7F7B91C193E25DA5D33FA2E22EAA47BB0A5B9335(_thisAdjusted, ___0_capacity, ___1_allocator, ___2_options, method);
 }
-// Method Definition Index: 60044
+// Method Definition Index: 60056
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeRingQueue_1_Dispose_mDC088BFA3B84C21CE660781BA483D92D80FBA03F_gshared (NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824* __this, const RuntimeMethod* method) 
 {
 	{
@@ -11228,7 +11228,7 @@ IL2CPP_EXTERN_C  void NativeRingQueue_1_Dispose_mDC088BFA3B84C21CE660781BA483D92
 	_thisAdjusted = reinterpret_cast<NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824*>(__this + _offset);
 	NativeRingQueue_1_Dispose_mDC088BFA3B84C21CE660781BA483D92D80FBA03F(_thisAdjusted, method);
 }
-// Method Definition Index: 60045
+// Method Definition Index: 60057
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR JobHandle_t5DF5F99902FED3C801A81C05205CEA6CE039EF08 NativeRingQueue_1_Dispose_mB34B793B1E156339D7B1D17DA892F8B408F2F29A_gshared (NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824* __this, JobHandle_t5DF5F99902FED3C801A81C05205CEA6CE039EF08 ___0_inputDeps, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -11284,7 +11284,7 @@ IL2CPP_EXTERN_C  JobHandle_t5DF5F99902FED3C801A81C05205CEA6CE039EF08 NativeRingQ
 	_returnValue = NativeRingQueue_1_Dispose_mB34B793B1E156339D7B1D17DA892F8B408F2F29A(_thisAdjusted, ___0_inputDeps, method);
 	return _returnValue;
 }
-// Method Definition Index: 60046
+// Method Definition Index: 60058
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool NativeRingQueue_1_TryEnqueue_m011F551AA33278065E1C6EC5266C64EFE0F4E7D7_gshared (NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824* __this, Il2CppFullySharedGenericStruct ___0_value, const RuntimeMethod* method) 
 {
 	const uint32_t SizeOf_T_t3BA49E54204D2DD25B582F9772737DA823985AAF = il2cpp_codegen_sizeof(il2cpp_rgctx_data_no_init(InitializedTypeInfo(method->klass)->rgctx_data, 12));
@@ -11307,7 +11307,7 @@ IL2CPP_EXTERN_C  bool NativeRingQueue_1_TryEnqueue_m011F551AA33278065E1C6EC5266C
 	_returnValue = NativeRingQueue_1_TryEnqueue_m011F551AA33278065E1C6EC5266C64EFE0F4E7D7(_thisAdjusted, ___0_value, method);
 	return _returnValue;
 }
-// Method Definition Index: 60047
+// Method Definition Index: 60059
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeRingQueue_1_Enqueue_m0B10A7FED3DEDF8ECA76DE9A0B575A3E92845987_gshared (NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824* __this, Il2CppFullySharedGenericStruct ___0_value, const RuntimeMethod* method) 
 {
 	const uint32_t SizeOf_T_t3BA49E54204D2DD25B582F9772737DA823985AAF = il2cpp_codegen_sizeof(il2cpp_rgctx_data_no_init(InitializedTypeInfo(method->klass)->rgctx_data, 12));
@@ -11328,7 +11328,7 @@ IL2CPP_EXTERN_C  void NativeRingQueue_1_Enqueue_m0B10A7FED3DEDF8ECA76DE9A0B575A3
 	_thisAdjusted = reinterpret_cast<NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824*>(__this + _offset);
 	NativeRingQueue_1_Enqueue_m0B10A7FED3DEDF8ECA76DE9A0B575A3E92845987(_thisAdjusted, ___0_value, method);
 }
-// Method Definition Index: 60048
+// Method Definition Index: 60060
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool NativeRingQueue_1_TryDequeue_m93EA95B3350D09EFB79FA7CDA3506A494011FEFE_gshared (NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824* __this, Il2CppFullySharedGenericStruct* ___0_item, const RuntimeMethod* method) 
 {
 	{
@@ -11349,7 +11349,7 @@ IL2CPP_EXTERN_C  bool NativeRingQueue_1_TryDequeue_m93EA95B3350D09EFB79FA7CDA350
 	_returnValue = NativeRingQueue_1_TryDequeue_m93EA95B3350D09EFB79FA7CDA3506A494011FEFE(_thisAdjusted, ___0_item, method);
 	return _returnValue;
 }
-// Method Definition Index: 60049
+// Method Definition Index: 60061
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeRingQueue_1_Dequeue_m8324FB7D1168A070B7165685DDABF8BC629B274D_gshared (NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824* __this, Il2CppFullySharedGenericStruct* il2cppRetVal, const RuntimeMethod* method) 
 {
 	const uint32_t SizeOf_T_t3BA49E54204D2DD25B582F9772737DA823985AAF = il2cpp_codegen_sizeof(il2cpp_rgctx_data_no_init(InitializedTypeInfo(method->klass)->rgctx_data, 12));
@@ -11370,7 +11370,7 @@ IL2CPP_EXTERN_C  void NativeRingQueue_1_Dequeue_m8324FB7D1168A070B7165685DDABF8B
 	NativeRingQueue_1_Dequeue_m8324FB7D1168A070B7165685DDABF8BC629B274D(_thisAdjusted, il2cppRetVal, method);
 	return;
 }
-// Method Definition Index: 60050
+// Method Definition Index: 60062
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeRingQueue_1_CheckRead_mDFE3F7B69CABE827A4202EB3AA035491231AEF44_gshared (NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824* __this, const RuntimeMethod* method) 
 {
 	{
@@ -11385,7 +11385,7 @@ IL2CPP_EXTERN_C  void NativeRingQueue_1_CheckRead_mDFE3F7B69CABE827A4202EB3AA035
 	_thisAdjusted = reinterpret_cast<NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824*>(__this + _offset);
 	NativeRingQueue_1_CheckRead_mDFE3F7B69CABE827A4202EB3AA035491231AEF44_inline(_thisAdjusted, method);
 }
-// Method Definition Index: 60051
+// Method Definition Index: 60063
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeRingQueue_1_CheckWrite_m33389FCE814FB1D3E502D1EC51B7C7A66D0E58E6_gshared (NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824* __this, const RuntimeMethod* method) 
 {
 	{
@@ -44181,7 +44181,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ObjectComparer_1__ctor_mD943873F2048481D
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-// Method Definition Index: 58077
+// Method Definition Index: 58089
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t CollectionHelper_AssumePositive_mD1EC1F05F50F605141D9BA5D70C4332AC902B4B1_inline (int32_t ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -44778,7 +44778,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR String_t* Vector4_ToString_mFA0DD
 		return L_0;
 	}
 }
-// Method Definition Index: 60039
+// Method Definition Index: 60051
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool NativeRingQueue_1_get_IsCreated_m7656331C78C6BFE2143A3FDB3EF208AFEC1CC302_gshared_inline (NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824* __this, const RuntimeMethod* method) 
 {
 	{
@@ -44801,7 +44801,7 @@ IL_0016:
 		return (bool)0;
 	}
 }
-// Method Definition Index: 60040
+// Method Definition Index: 60052
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool NativeRingQueue_1_get_IsEmpty_mF5B25F554191B3367F230026E2430FBCE14DB65E_gshared_inline (NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824* __this, const RuntimeMethod* method) 
 {
 	{
@@ -44824,7 +44824,7 @@ IL_0019:
 		return (bool)1;
 	}
 }
-// Method Definition Index: 60041
+// Method Definition Index: 60053
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t NativeRingQueue_1_get_Length_m881C8901088FD50D8921187000CAFA398BAB3AEA_gshared_inline (NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824* __this, const RuntimeMethod* method) 
 {
 	{
@@ -44837,7 +44837,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t NativeRingQueue_1_get_Len
 		return L_2;
 	}
 }
-// Method Definition Index: 60042
+// Method Definition Index: 60054
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t NativeRingQueue_1_get_Capacity_m964F51040BBC35640EF8DFCF9A4E2C35D313B293_gshared_inline (NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824* __this, const RuntimeMethod* method) 
 {
 	{
@@ -44850,7 +44850,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t NativeRingQueue_1_get_Cap
 		return L_2;
 	}
 }
-// Method Definition Index: 60050
+// Method Definition Index: 60062
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void NativeRingQueue_1_CheckRead_mDFE3F7B69CABE827A4202EB3AA035491231AEF44_gshared_inline (NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824* __this, const RuntimeMethod* method) 
 {
 	{
@@ -44858,7 +44858,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void NativeRingQueue_1_CheckRead_
 		return;
 	}
 }
-// Method Definition Index: 60051
+// Method Definition Index: 60063
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void NativeRingQueue_1_CheckWrite_m33389FCE814FB1D3E502D1EC51B7C7A66D0E58E6_gshared_inline (NativeRingQueue_1_tD99A513B453CAEA886865D1C850C944257D6D824* __this, const RuntimeMethod* method) 
 {
 	{
